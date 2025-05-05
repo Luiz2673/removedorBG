@@ -23,10 +23,10 @@ if processar:
 
                 # Mostrar imagens centralizadas
                 st.markdown("### 🖼️ Imagem Original")
-                st.image(inp, use_column_width=True)
+                st.image(inp, use_container_width=True)
 
                 st.markdown("### 🧼 Imagem Sem Fundo")
-                st.image(output, use_column_width=True)
+                st.image(output, use_container_width=True)
 
                 # Preparar imagem para download
                 buf = io.BytesIO()
