@@ -21,10 +21,9 @@ Siga os passos abaixo para executar o aplicativo na sua máquina local:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://SEU_LINK_PARA_O_REPOSITORIO.git 
-    cd nome-do-seu-repositorio 
+    git clone https://github.com/Luiz2673/removedorBG.git 
+    cd removedorBG 
     ```
-    *(Substitua pelo link real do seu repositório e o nome da pasta)*
 
 2.  **(Opcional, mas recomendado) Crie e ative um ambiente virtual:**
     ```bash
@@ -45,10 +44,8 @@ Siga os passos abaixo para executar o aplicativo na sua máquina local:
 
 4.  **Execute o aplicativo Streamlit:**
     ```bash
-    streamlit run seu_arquivo_python.py 
+    streamlit run removeBG.py 
     ```
-    *(Substitua `seu_arquivo_python.py` pelo nome real do seu script Python, por exemplo, `app.py`)*
-
 5.  O aplicativo abrirá automaticamente no seu navegador padrão.
 
 ## 💡 Como Usar
