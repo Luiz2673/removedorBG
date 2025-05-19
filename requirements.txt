@@ -1,4 +1,5 @@
 streamlit
 rembg
 pillow
-onnxruntime==1.18.0     
+onnxruntime‑nightly
+
